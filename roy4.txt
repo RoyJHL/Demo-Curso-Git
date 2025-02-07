@@ -1,1 +1,6 @@
 este archivo será publicada (commit)
+--
+--Nueva linea
+--
+Este archivo será actualizado, publicado "commit" y eliminado para utilizar restore.
+¿Cual devolverá?
