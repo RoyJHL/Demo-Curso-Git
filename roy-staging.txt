@@ -1,0 +1,3 @@
+Esto estará solo en Staging Area-2-Se modifica
+despues de agregar al area de preparación "Staging Area"
+para voleverlo agregar y eliminar.
